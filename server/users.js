@@ -32,7 +32,7 @@ const getUsers = () => {
 }
 
 
-module.export = {
+module.exports = {
   addUser,
   removeUser,
   getUser,
